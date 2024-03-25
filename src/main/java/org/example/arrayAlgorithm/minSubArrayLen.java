@@ -37,6 +37,7 @@ public class minSubArrayLen {
                     }
                 }
             }
+        // return result == INT32_MAX ? 0 : result;
         return t;
     }
 
